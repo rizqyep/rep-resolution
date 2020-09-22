@@ -5,4 +5,4 @@ End of 2020 Resolution :
 - Master Data Structures
 - Learn about DevOps Basics : Docker, Cloud, Kubernetes
 - Learn About Website Security
-- Try to learn more about other backend technologies
+- Create contents in instagram
